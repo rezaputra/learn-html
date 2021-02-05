@@ -1,1 +1,4 @@
-h1::after
+h1{
+    font-style: italic;
+    text-align: center;
+}
