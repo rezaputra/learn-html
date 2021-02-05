@@ -1,18 +1,17 @@
-h1{
-    font-style: italic;
-    text-align: center;
-    color:brown;
- 
+h1 {
+  font-style: italic;
+  text-align: center;
+  color: brown;
 }
 
-h3{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: center;
-    color: darkgreen;
+h3 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+  color: darkgreen;
 }
 
-h4{
-    font-style: italic;
-    text-align: center;
-    color: firebrick;
+h4 {
+  font-style: italic;
+  text-align: center;
+  color: firebrick;
 }
